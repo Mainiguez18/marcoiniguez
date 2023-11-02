@@ -2,5 +2,5 @@
 ## projects:
 
 1.[retail analytics](HTTPS://linkmehere.com)
-2.[Business intelligence]
+2.Business intelligence
 3.data science
